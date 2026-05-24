@@ -10,7 +10,7 @@
 [ext_resource type="Texture2D" uid="uid://dh7tce38e51di" path="res://IMAGE/pixil-frame-0 (1).png" id="7_rd8xb"]
 [ext_resource type="Script" uid="uid://mny46gids3wt" path="res://SCRIPT/bullet2.gd" id="8_rd8xb"]
 [ext_resource type="Texture2D" uid="uid://6vjbe8a8pxtg" path="res://IMAGE/pixil-frame-0 (3).png" id="9_8jknd"]
-[ext_resource type="Script" uid="uid://c87w2b3blesxn" path="res://SCENE/bounce_bullet.gd" id="11_l4co8"]
+[ext_resource type="Script" uid="uid://c87w2b3blesxn" path="res://SCRIPT/bounce_bullet.gd" id="11_l4co8"]
 [ext_resource type="Texture2D" uid="uid://2diwv7fclhtl" path="res://IMAGE/pixil-frame-0 (5).png" id="12_4kmf3"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_q4ew6"]
