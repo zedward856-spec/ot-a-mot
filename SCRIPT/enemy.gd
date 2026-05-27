@@ -1,6 +1,6 @@
 extends Area2D
 
-@export var speed: float = 60.0
+@export var speed: float = 40.0
 @export var max_health: int = 30  
 var current_health: int
 var knockback: Vector2 = Vector2.ZERO
